@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Interface Domain="HomeAutomation.Insteon" AssemblyName="MIG-Insteon.dll" IsEnabled="false">
+  <Options>
+    <Option Name="Port" Value="" />
+    <Option Name="HouseCodes" Value="" />
+  </Options>
+</Interface>
+
